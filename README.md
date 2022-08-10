@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciceribeiroo
 - 👀 I’m interested in fullstack development and machine learning
-- 🌱 I’m currently learning React.js, .NET and text mining
+- 🌱 I’m (aways) learning React.js, .NET and text mining
 - 📫 Let's do something crazy together? Reach me out:ciceribeiroo@gmail.com
 
 <!---
