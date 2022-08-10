@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ciceribeiroo
-- 👀 I’m interested in React.js, Angular.js, python, .NET, node.js, Javascript
-- 🌱 I’m currently learning React.js, .NET, IA, Node.js and Data Analysis
-- 📫 How to reach me ciceribeiroo@gmail.com
+- 👀 I’m interested in fullstack development and machine learning
+- 🌱 I’m currently learning React.js, .NET and text mining
+- 📫 Let's do something crazy together? Reach me out:ciceribeiroo@gmail.com
 
 <!---
 ciceribeiroo/ciceribeiroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
